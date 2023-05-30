@@ -46,11 +46,13 @@ input:checked {
     flex-direction: column;
     justify-content: space-around;
     height: 150px;
+    width: 100%;
 }
 #result {
     margin-bottom: 50px;
     font-size: 1.1rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
 }
 .btn-container {
     display: flex;
